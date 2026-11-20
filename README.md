@@ -1,30 +1,18 @@
-# Osama Bendary
+Hi, I'm Osama. I build apps and get a little too invested in how they feel to use.
 
-Hi, I’m Osama. I make apps, then spend an unreasonable amount of time tuning the little things.
+Currently working on uPlayer, a music player made with Flutter and Go.
 
-Currently making uPlayer — a music player for people who care about both the playlist and the play button.
+## Recent project
+
+### uPlayer
+
+A local music player with synced lyrics, playlists, listening stats, and a UI that picks up colors from the album art.
 <details>
-<summary>Okay, what’s in it?</summary>
-<br>
+<summary>What's playing under the hood?</summary>
 
-- Flutter app, with a Go-powered download engine
-- Local library, playlists, queue controls, and synced lyrics
-- Waveform scrubbing, listening stats, and a handful of album-art styles
-- A UI that borrows its colors from whatever’s playing
+Flutter · Dart · Go · gomobile
 
-<a href="https://github.com/OsamaBendary/uPlayer">Take a look at the code →</a>
+The Go backend handles downloads; Flutter handles the player, library, and all the album-art obsessing.
 </details>
 
-### Currently into
-
-Flutter · Dart · Go · making audio controls feel just right
-
-### Your turn
-
-What’s the one small feature that makes a music app feel like your music app?
-
-Tell me in a discussion — or open an issue if you’ve got a feature idea.
-
-———
-
-<sub>Found a bug? That’s a collaboration opportunity. uPlayer issues →</sub>
+Have a feature idea? Open a discussion or browse the code.
