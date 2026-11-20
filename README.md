@@ -4,6 +4,8 @@ Currently working on uPlayer, a music player made with Flutter and Go.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OsamaBendary&theme=holi)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OsamaBendary&theme=holi&exclude=html%2C)  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OsamaBendary&theme=holi&exclude=html%2C)
+
 ## Recent project
 
 ### uPlayer
