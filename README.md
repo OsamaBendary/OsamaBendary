@@ -1,16 +1,30 @@
-## Hi there 👋
+# Osama Bendary
 
-<!--
-**OsamaBendary/OsamaBendary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Osama. I make apps, then spend an unreasonable amount of time tuning the little things.
 
-Here are some ideas to get you started:
+Currently making uPlayer — a music player for people who care about both the playlist and the play button.
+<details>
+<summary>Okay, what’s in it?</summary>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter app, with a Go-powered download engine
+- Local library, playlists, queue controls, and synced lyrics
+- Waveform scrubbing, listening stats, and a handful of album-art styles
+- A UI that borrows its colors from whatever’s playing
+
+<a href="https://github.com/OsamaBendary/uPlayer">Take a look at the code →</a>
+</details>
+
+### Currently into
+
+Flutter · Dart · Go · making audio controls feel just right
+
+### Your turn
+
+What’s the one small feature that makes a music app feel like your music app?
+
+Tell me in a discussion — or open an issue if you’ve got a feature idea.
+
+———
+
+<sub>Found a bug? That’s a collaboration opportunity. uPlayer issues →</sub>
